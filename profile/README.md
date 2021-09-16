@@ -30,9 +30,8 @@ Now that we are talking about the important things ☝️, are you contributing 
 
 ### 🔧Links to us!
 
-- [Our Website](https://power.cloud/) - A command line tool for GitHub
-- [Career](https://power.cloud/en/career/jobs/) - A git extension for versioning large files
-- [Primer](https://github.com/primer/css) - The GitHub design system
+- [Our Website](https://power.cloud/) - Take a look around our website
+- [Career](https://power.cloud/en/career/jobs/) - You too can find a place with us
 
 <!--
 Made with 🖤
